@@ -1,0 +1,1 @@
+# Addons Manager Fix
